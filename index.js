@@ -3,5 +3,5 @@ var b = 6
 var a + b  
 var a - b 
 var a * b 
-var a/b 
+var a / b 
 
