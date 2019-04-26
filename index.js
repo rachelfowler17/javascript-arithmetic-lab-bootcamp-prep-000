@@ -5,3 +5,6 @@ function substract() a - b
 function multiply() a * b 
 function divide() a / b 
 
+Varnumber = 8 
+number++ 
+number-- 
