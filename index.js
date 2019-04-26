@@ -1,7 +1,7 @@
 a = 4
 b = 6 
-add() a + b  
-a - b
-a * b 
-a / b 
+function add() a + b  
+function substract() a - b
+function multiply() a * b 
+function divide() a / b 
 
