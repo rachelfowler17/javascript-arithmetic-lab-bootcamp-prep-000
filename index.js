@@ -1,6 +1,6 @@
 a = 4
 b = 6 
-a + b  
+add() a + b  
 a - b
 a * b 
 a / b 
