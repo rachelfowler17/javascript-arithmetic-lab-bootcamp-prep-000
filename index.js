@@ -8,3 +8,6 @@ function divide() a / b
 Varnumber = 8 
 number++ 
 number-- 
+
+parstInt ("5",10) 
+parseFloat (12.89777) 
