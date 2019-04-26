@@ -10,4 +10,4 @@ number++
 number-- 
 
 parstInt ("5",10) 
-parseFloat (12.89777) 
+parseFloat (12.893777) 
